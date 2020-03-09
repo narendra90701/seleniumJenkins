@@ -75,6 +75,8 @@ public class ChromeTest {
 			System.out.println("Home page Order Now Btn: Not Displayed");
 		}
 		
+		
+		System.out.println("**************** Closing Driver****************");
 		driver.close();
 		
 		
